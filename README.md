@@ -14,7 +14,7 @@
 ### 👨‍💻 About me:
 I am a Software Developer from the United States.
 - 🔭 I'm currently looking for a job.
-- 🌱 Game Developement using Rust and Bevy / C# and Unity.
+- 🌱 Game Developement using Godot.
 - ⚡ In my free time, I enjoy playing games of all types.
 - 📫
 
